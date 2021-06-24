@@ -1,0 +1,85 @@
+
+div {
+    
+    border-radius: 8px;
+    
+}
+
+.titulo {
+    font-size: 40px;
+    text-align: center;
+    background: white;
+    color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 6px;
+
+}
+
+#contenedor {
+    width: 700px;
+    height: 400px;
+    margin: auto ;
+    margin-top: 150px;
+    background: #ffffff;
+    padding:10px;
+}
+#cabecera {
+    background: red;
+    padding:30px;
+    margin-bottom: 100px;
+}
+
+#menu {
+    float:left;
+    width: 150px;
+    height: 1000px;
+    margin-right: 30px;
+    background: #f7f1e3;
+    color: grey;
+    padding: 30px;
+    font-size: 22px;
+}
+
+#contenido {
+    float:right;
+    width: 300px;
+    height: 450px;
+    background: red;
+    padding: 30px;
+    color: white;
+    font-size:20px;
+  
+}
+
+#pie {
+    Clear: both;
+    margin-top: 30px;
+    position:relative;
+    margin-right: 600px;
+    margin-left: 600px;
+    height: 345px;
+    background: red;
+    padding: 30px;
+    font-size: 150px;
+    
+}
+
+span {
+    color: red;
+}
+
+.ey {
+    font-size: 23px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.fin {
+     
+     text-align: center;
+     color: red;
+     font-size: 20px;
+}
